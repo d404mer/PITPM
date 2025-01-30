@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PITPM_LABA1", "PITPM_LABA1\PITPM_LABA1.csproj", "{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{BAF18C11-9E7C-4298-8EA6-799791DB49A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF18C11-9E7C-4298-8EA6-799791DB49A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF18C11-9E7C-4298-8EA6-799791DB49A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF18C11-9E7C-4298-8EA6-799791DB49A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF18C11-9E7C-4298-8EA6-799791DB49A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB97BA85-6096-40F8-AC8E-159574BEE9DD}
+	EndGlobalSection
+EndGlobal

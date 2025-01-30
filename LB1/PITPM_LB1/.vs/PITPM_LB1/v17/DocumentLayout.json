@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A350657E-EB89-407A-A1A6-D97B0BA2801F}|LB1_1\\LB1_1.csproj|d:\\cit kai\\pitpm\\lb1\\pitpm_lb1\\lb1_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A350657E-EB89-407A-A1A6-D97B0BA2801F}|LB1_1\\LB1_1.csproj|solutionrelative:lb1_1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A350657E-EB89-407A-A1A6-D97B0BA2801F}|LB1_1\\LB1_1.csproj|d:\\cit kai\\pitpm\\lb1\\pitpm_lb1\\lb1_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A350657E-EB89-407A-A1A6-D97B0BA2801F}|LB1_1\\LB1_1.csproj|solutionrelative:lb1_1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|d:\\cit kai\\pitpm\\lb1\\pitpm_lb1\\pitpm_lb1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|solutionrelative:pitpm_lb1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|d:\\cit kai\\pitpm\\lb1\\pitpm_lb1\\pitpm_lb1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|solutionrelative:pitpm_lb1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|d:\\cit kai\\pitpm\\lb1\\pitpm_lb1\\pitpm_lb1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|solutionrelative:pitpm_lb1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|d:\\cit kai\\pitpm\\lb1\\pitpm_lb1\\pitpm_lb1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|solutionrelative:pitpm_lb1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|d:\\cit kai\\pitpm\\lb1\\pitpm_lb1\\pitpm_lb1\\sortingssss\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|solutionrelative:pitpm_lb1\\sortingssss\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|d:\\cit kai\\pitpm\\lb1\\pitpm_lb1\\pitpm_lb1\\sortingssss\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05BCEB0-FE45-4E7E-9155-E387E3EFB1D5}|PITPM_LB1\\PITPM_LB1.csproj|solutionrelative:pitpm_lb1\\sortingssss\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 464,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\LB1_1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LB1_1\\MainWindow.xaml",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\LB1_1\\MainWindow.xaml",
+              "RelativeToolTip": "LB1_1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T15:50:04.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\LB1_1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LB1_1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\LB1_1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LB1_1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:50:03.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\App.xaml",
+              "RelativeDocumentMoniker": "PITPM_LB1\\App.xaml",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\App.xaml",
+              "RelativeToolTip": "PITPM_LB1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T15:44:32.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PITPM_LB1\\AssemblyInfo.cs",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\AssemblyInfo.cs",
+              "RelativeToolTip": "PITPM_LB1\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:44:27.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PITPM_LB1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PITPM_LB1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwEEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:33:31.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\SortingSSSS\\QuickSort.cs",
+              "RelativeDocumentMoniker": "PITPM_LB1\\SortingSSSS\\QuickSort.cs",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\SortingSSSS\\QuickSort.cs",
+              "RelativeToolTip": "PITPM_LB1\\SortingSSSS\\QuickSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:28:12.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\SortingSSSS\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "PITPM_LB1\\SortingSSSS\\BubbleSort.cs",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\SortingSSSS\\BubbleSort.cs",
+              "RelativeToolTip": "PITPM_LB1\\SortingSSSS\\BubbleSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:25:12.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PITPM_LB1\\MainWindow.xaml",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB1\\PITPM_LB1\\PITPM_LB1\\MainWindow.xaml",
+              "RelativeToolTip": "PITPM_LB1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T15:15:19.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
