@@ -1,17 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using PITPM_LB1.SortingSSSS;
 
 namespace PITPM_LABA1
@@ -25,6 +15,7 @@ namespace PITPM_LABA1
         {
             InitializeComponent();
         }
+
         private void BubbleSort_Click(object sender, RoutedEventArgs e)
         {
             int[] numbers = ParseInput();
@@ -49,18 +40,28 @@ namespace PITPM_LABA1
             OutputArray.Text = string.Join(", ", numbers);
         }
 
-
+        // Встроенная логика парсинга ввода
         private int[] ParseInput()
         {
             try
             {
-                return InputArray.Text.Split(',').Select(s => int.Parse(s.Trim())).ToArray();
+                return InputArray.Text.Split(',')
+                                      .Select(s => int.Parse(s.Trim()))
+                                      .ToArray();
             }
             catch
             {
                 MessageBox.Show("Некорректный ввод! Введите числа через запятую.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 return null;
             }
+        }
+
+        // Встроенная логика сортировки массива
+        private string SortArray(int[] numbers, Action<int[]> sortFunction)
+        {
+            if (numbers == null) return "Ошибка: некорректный ввод!";
+            sortFunction(numbers);
+            return string.Join(", ", numbers);
         }
 
         private void ClearInput_Click(object sender, RoutedEventArgs e)
@@ -72,6 +73,17 @@ namespace PITPM_LABA1
         private void ClearOutput_Click(object sender, RoutedEventArgs e)
         {
             OutputArray.Text = "";
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Random rnd = new Random();
+            int[] numbers = new int[10];
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                numbers[i] = rnd.Next(0, 10);
+            }
+            InputArray.Text = string.Join(", ", numbers);
         }
     }
 }

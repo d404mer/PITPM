@@ -13,6 +13,7 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
+            
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
@@ -31,6 +32,7 @@
         <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
             <Button Content="Очистить ввод" Width="150" Margin="5" Click="ClearInput_Click"/>
             <Button Content="Очистить результат" Width="150" Margin="5" Click="ClearOutput_Click"/>
+            <Button Content="Случайный ввод" Width="150" Margin="5" Click="Button_Click" />
         </StackPanel>
     </Grid>
 </Window>

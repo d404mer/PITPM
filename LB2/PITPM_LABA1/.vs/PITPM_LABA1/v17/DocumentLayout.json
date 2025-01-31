@@ -1,32 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PITPM\\LB1\\PITPM_LABA1\\",
+  "WorkspaceRootPath": "D:\\PITPM\\LB2\\PITPM_LABA1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAF18C11-9E7C-4298-8EA6-799791DB49A8}|UnitTestProject1\\UnitTestProject1.csproj|d:\\pitpm\\lb1\\pitpm_laba1\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAF18C11-9E7C-4298-8EA6-799791DB49A8}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F48D456A-D1E7-4395-AB45-069F6A131D2E}|xUnitIntTest\\xUnitIntTest.csproj|d:\\pitpm\\lb2\\pitpm_laba1\\xunitinttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F48D456A-D1E7-4395-AB45-069F6A131D2E}|xUnitIntTest\\xUnitIntTest.csproj|solutionrelative:xunitinttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|D:\\PITPM\\LB1\\PITPM_LABA1\\pitpm_laba1\\sortingssss\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|D:\\PITPM\\LB2\\PITPM_LABA1\\pitpm_laba1\\sortingssss\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|solutionrelative:pitpm_laba1\\sortingssss\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|D:\\PITPM\\LB1\\PITPM_LABA1\\pitpm_laba1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|D:\\PITPM\\LB2\\PITPM_LABA1\\pitpm_laba1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|solutionrelative:pitpm_laba1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|D:\\PITPM\\LB2\\PITPM_LABA1\\pitpm_laba1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|solutionrelative:pitpm_laba1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|D:\\PITPM\\LB1\\PITPM_LABA1\\pitpm_laba1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|solutionrelative:pitpm_laba1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|D:\\PITPM\\LB2\\PITPM_LABA1\\pitpm_laba1\\sortingssss\\sortinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6A384B-8140-4E9D-B52F-C77E7C0EC77B}|PITPM_LABA1\\PITPM_LABA1.csproj|solutionrelative:pitpm_laba1\\sortingssss\\sortinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF18C11-9E7C-4298-8EA6-799791DB49A8}|UnitTestProject1\\UnitTestProject1.csproj|D:\\PITPM\\LB2\\PITPM_LABA1\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF18C11-9E7C-4298-8EA6-799791DB49A8}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 464,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 356,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 510,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,51 +52,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortingHelper.cs",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA1\\PITPM_LABA1\\SortingSSSS\\SortingHelper.cs",
+              "RelativeDocumentMoniker": "PITPM_LABA1\\SortingSSSS\\SortingHelper.cs",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA1\\PITPM_LABA1\\SortingSSSS\\SortingHelper.cs",
+              "RelativeToolTip": "PITPM_LABA1\\SortingSSSS\\SortingHelper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:06:40.039Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\PITPM\\LB1\\PITPM_LABA1\\UnitTestProject1\\UnitTest1.cs",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA1\\xUnitIntTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "xUnitIntTest\\UnitTest1.cs",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA1\\xUnitIntTest\\UnitTest1.cs",
+              "RelativeToolTip": "xUnitIntTest\\UnitTest1.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAuwHEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:14:23.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA1\\UnitTestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
-              "ToolTip": "D:\\PITPM\\LB1\\PITPM_LABA1\\UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA1\\UnitTestProject1\\UnitTest1.cs",
               "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T15:54:23.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T15:54:23.128Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BubbleSort.cs",
-              "DocumentMoniker": "D:\\PITPM\\LB1\\PITPM_LABA1\\PITPM_LABA1\\SortingSSSS\\BubbleSort.cs",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA1\\PITPM_LABA1\\SortingSSSS\\BubbleSort.cs",
               "RelativeDocumentMoniker": "PITPM_LABA1\\SortingSSSS\\BubbleSort.cs",
-              "ToolTip": "D:\\PITPM\\LB1\\PITPM_LABA1\\PITPM_LABA1\\SortingSSSS\\BubbleSort.cs",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA1\\PITPM_LABA1\\SortingSSSS\\BubbleSort.cs",
               "RelativeToolTip": "PITPM_LABA1\\SortingSSSS\\BubbleSort.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T15:53:46.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\PITPM\\LB1\\PITPM_LABA1\\PITPM_LABA1\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "PITPM_LABA1\\MainWindow.xaml",
-              "ToolTip": "D:\\PITPM\\LB1\\PITPM_LABA1\\PITPM_LABA1\\MainWindow.xaml",
-              "RelativeToolTip": "PITPM_LABA1\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-30T15:52:30.571Z"
+              "WhenOpened": "2025-01-30T15:53:46.382Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA1\\PITPM_LABA1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PITPM_LABA1\\MainWindow.xaml",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA1\\PITPM_LABA1\\MainWindow.xaml",
+              "RelativeToolTip": "PITPM_LABA1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T15:52:30.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PITPM\\LB1\\PITPM_LABA1\\PITPM_LABA1\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA1\\PITPM_LABA1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PITPM_LABA1\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\PITPM\\LB1\\PITPM_LABA1\\PITPM_LABA1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA1\\PITPM_LABA1\\MainWindow.xaml.cs",
               "RelativeToolTip": "PITPM_LABA1\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAA1wFkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T15:52:29.692Z"
+              "WhenOpened": "2025-01-30T15:52:29.692Z",
+              "EditorCaption": ""
             }
           ]
         }
