@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PITPM_LABA2", "PITPM_LABA2\PITPM_LABA2.csproj", "{187A4968-3890-4D01-B017-E517391BC1AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject_LORDSAVEUS", "XUnitTestProject_LORDSAVEUS\XUnitTestProject_LORDSAVEUS.csproj", "{325E0E1C-51F9-448E-A9A7-88351D409BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187A4968-3890-4D01-B017-E517391BC1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187A4968-3890-4D01-B017-E517391BC1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187A4968-3890-4D01-B017-E517391BC1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187A4968-3890-4D01-B017-E517391BC1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325E0E1C-51F9-448E-A9A7-88351D409BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325E0E1C-51F9-448E-A9A7-88351D409BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325E0E1C-51F9-448E-A9A7-88351D409BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325E0E1C-51F9-448E-A9A7-88351D409BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFC79530-7073-46F7-9D12-A1A5B3FE7896}
+	EndGlobalSection
+EndGlobal

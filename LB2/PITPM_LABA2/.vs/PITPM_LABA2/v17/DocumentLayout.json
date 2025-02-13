@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PITPM\\LB2\\PITPM_LABA2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{325E0E1C-51F9-448E-A9A7-88351D409BBE}|XUnitTestProject_LORDSAVEUS\\XUnitTestProject_LORDSAVEUS.csproj|d:\\pitpm\\lb2\\pitpm_laba2\\xunittestproject_lordsaveus\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325E0E1C-51F9-448E-A9A7-88351D409BBE}|XUnitTestProject_LORDSAVEUS\\XUnitTestProject_LORDSAVEUS.csproj|solutionrelative:xunittestproject_lordsaveus\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187A4968-3890-4D01-B017-E517391BC1AB}|PITPM_LABA2\\PITPM_LABA2.csproj|d:\\pitpm\\lb2\\pitpm_laba2\\pitpm_laba2\\sortingssss\\sortinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187A4968-3890-4D01-B017-E517391BC1AB}|PITPM_LABA2\\PITPM_LABA2.csproj|solutionrelative:pitpm_laba2\\sortingssss\\sortinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187A4968-3890-4D01-B017-E517391BC1AB}|PITPM_LABA2\\PITPM_LABA2.csproj|d:\\pitpm\\lb2\\pitpm_laba2\\pitpm_laba2\\sortingssss\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187A4968-3890-4D01-B017-E517391BC1AB}|PITPM_LABA2\\PITPM_LABA2.csproj|solutionrelative:pitpm_laba2\\sortingssss\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187A4968-3890-4D01-B017-E517391BC1AB}|PITPM_LABA2\\PITPM_LABA2.csproj|d:\\pitpm\\lb2\\pitpm_laba2\\pitpm_laba2\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{187A4968-3890-4D01-B017-E517391BC1AB}|PITPM_LABA2\\PITPM_LABA2.csproj|solutionrelative:pitpm_laba2\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187A4968-3890-4D01-B017-E517391BC1AB}|PITPM_LABA2\\PITPM_LABA2.csproj|d:\\pitpm\\lb2\\pitpm_laba2\\pitpm_laba2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{187A4968-3890-4D01-B017-E517391BC1AB}|PITPM_LABA2\\PITPM_LABA2.csproj|solutionrelative:pitpm_laba2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325E0E1C-51F9-448E-A9A7-88351D409BBE}|XUnitTestProject_LORDSAVEUS\\XUnitTestProject_LORDSAVEUS.csproj|d:\\pitpm\\lb2\\pitpm_laba2\\xunittestproject_lordsaveus\\xunittestproject_lordsaveus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{325E0E1C-51F9-448E-A9A7-88351D409BBE}|XUnitTestProject_LORDSAVEUS\\XUnitTestProject_LORDSAVEUS.csproj|solutionrelative:xunittestproject_lordsaveus\\xunittestproject_lordsaveus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187A4968-3890-4D01-B017-E517391BC1AB}|PITPM_LABA2\\PITPM_LABA2.csproj|d:\\pitpm\\lb2\\pitpm_laba2\\pitpm_laba2\\pitpm_laba2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{187A4968-3890-4D01-B017-E517391BC1AB}|PITPM_LABA2\\PITPM_LABA2.csproj|solutionrelative:pitpm_laba2\\pitpm_laba2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.404\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1524,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortingHelper.cs",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA2\\PITPM_LABA2\\SortingSSSS\\SortingHelper.cs",
+              "RelativeDocumentMoniker": "PITPM_LABA2\\SortingSSSS\\SortingHelper.cs",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA2\\PITPM_LABA2\\SortingSSSS\\SortingHelper.cs",
+              "RelativeToolTip": "PITPM_LABA2\\SortingSSSS\\SortingHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:25:12.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA2\\PITPM_LABA2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PITPM_LABA2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA2\\PITPM_LABA2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PITPM_LABA2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:24:58.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA2\\PITPM_LABA2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PITPM_LABA2\\MainWindow.xaml",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA2\\PITPM_LABA2\\MainWindow.xaml",
+              "RelativeToolTip": "PITPM_LABA2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-31T07:24:57.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AQIAAH8AAAAAAAAAAAD4v5gAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-31T07:23:43.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XUnitTestProject_LORDSAVEUS",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA2\\XUnitTestProject_LORDSAVEUS\\XUnitTestProject_LORDSAVEUS.csproj",
+              "RelativeDocumentMoniker": "XUnitTestProject_LORDSAVEUS\\XUnitTestProject_LORDSAVEUS.csproj",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA2\\XUnitTestProject_LORDSAVEUS\\XUnitTestProject_LORDSAVEUS.csproj",
+              "RelativeToolTip": "XUnitTestProject_LORDSAVEUS\\XUnitTestProject_LORDSAVEUS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T07:22:52.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAADsHAAAAAAAAAAD4v1EHAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-01-31T07:21:53.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA2\\XUnitTestProject_LORDSAVEUS\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "XUnitTestProject_LORDSAVEUS\\UnitTest1.cs",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA2\\XUnitTestProject_LORDSAVEUS\\UnitTest1.cs",
+              "RelativeToolTip": "XUnitTestProject_LORDSAVEUS\\UnitTest1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:20:13.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA2\\PITPM_LABA2\\SortingSSSS\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "PITPM_LABA2\\SortingSSSS\\BubbleSort.cs",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA2\\PITPM_LABA2\\SortingSSSS\\BubbleSort.cs",
+              "RelativeToolTip": "PITPM_LABA2\\SortingSSSS\\BubbleSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T07:19:26.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PITPM_LABA2",
+              "DocumentMoniker": "D:\\PITPM\\LB2\\PITPM_LABA2\\PITPM_LABA2\\PITPM_LABA2.csproj",
+              "RelativeDocumentMoniker": "PITPM_LABA2\\PITPM_LABA2.csproj",
+              "ToolTip": "D:\\PITPM\\LB2\\PITPM_LABA2\\PITPM_LABA2\\PITPM_LABA2.csproj",
+              "RelativeToolTip": "PITPM_LABA2\\PITPM_LABA2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T07:16:32.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 464,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
