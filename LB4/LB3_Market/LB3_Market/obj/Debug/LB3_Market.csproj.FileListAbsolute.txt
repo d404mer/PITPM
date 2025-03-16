@@ -1,0 +1,334 @@
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\NUnit3.TestAdapter.pdb
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\nunit.engine.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\nunit.engine.api.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\nunit.engine.core.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\testcentric.engine.metadata.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\NUnit3.TestAdapter.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\LB3_Market.exe.config
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\LB3_Market.exe
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\LB3_Market.pdb
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Castle.Core.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.ApplicationInsights.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.MSBuild.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Platform.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Moq.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\nunit.framework.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\nunit.framework.legacy.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Buffers.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Collections.Immutable.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Memory.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Numerics.Vectors.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Reflection.Metadata.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.ValueTuple.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Castle.Core.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.ApplicationInsights.pdb
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.ApplicationInsights.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.MSBuild.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Platform.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\nunit.framework.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\nunit.framework.legacy.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Buffers.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Collections.Immutable.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Memory.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Numerics.Vectors.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Reflection.Metadata.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\System.ValueTuple.xml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\LB3_Market.csproj.AssemblyReference.cache
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\AddProdw.g.cs
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\AdminPanel.g.cs
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\EditProdWindow.g.cs
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\MainWindow.g.cs
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\UserWindow.g.cs
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\App.g.cs
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\LB3_Market_MarkupCompile.cache
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\LB3_Market_MarkupCompile.lref
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\App.baml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\AddProdw.baml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\AdminPanel.baml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\EditProdWindow.baml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\MainWindow.baml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\UserWindow.baml
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\LB3_Market.g.resources
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\LB3_Market.Properties.Resources.resources
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\LB3_Market.csproj.GenerateResource.cache
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\LB3_Market.csproj.CoreCompileInputs.cache
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\LB3_Market.csproj.Up2Date
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\LB3_Market.exe
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\LB3_Market\obj\Debug\LB3_Market.pdb
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\NUnit3.TestAdapter.pdb
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\nunit.engine.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\nunit.engine.api.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\nunit.engine.core.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\testcentric.engine.metadata.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\NUnit3.TestAdapter.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\LB3_Market.exe.config
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\LB3_Market.exe
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\LB3_Market.pdb
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Castle.Core.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.ApplicationInsights.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.MSBuild.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.Telemetry.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Platform.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Moq.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\nunit.framework.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\nunit.framework.legacy.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Buffers.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Collections.Immutable.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Memory.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Numerics.Vectors.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Reflection.Metadata.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.ValueTuple.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Castle.Core.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.ApplicationInsights.pdb
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.ApplicationInsights.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.MSBuild.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.Telemetry.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Extensions.VSTestBridge.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.Testing.Platform.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\nunit.framework.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\nunit.framework.legacy.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Buffers.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Collections.Immutable.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Memory.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Numerics.Vectors.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Reflection.Metadata.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\System.ValueTuple.xml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\LB3_Market.csproj.AssemblyReference.cache
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\AddProdw.g.cs
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\AdminPanel.g.cs
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\EditProdWindow.g.cs
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\MainWindow.g.cs
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\UserWindow.g.cs
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\App.g.cs
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\LB3_Market_MarkupCompile.cache
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\LB3_Market_MarkupCompile.lref
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\App.baml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\AddProdw.baml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\AdminPanel.baml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\EditProdWindow.baml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\MainWindow.baml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\UserWindow.baml
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\LB3_Market.g.resources
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\LB3_Market.Properties.Resources.resources
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\LB3_Market.csproj.GenerateResource.cache
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\LB3_Market.csproj.CoreCompileInputs.cache
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\LB3_Market.csproj.Up2Date
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\LB3_Market.exe
+D:\CIT KAI\PITPM\LB4\LB3_Market\LB3_Market\obj\Debug\LB3_Market.pdb

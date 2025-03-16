@@ -1,0 +1,6 @@
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\TestProject1\obj\Debug\net472\TestProject1.csproj.AssemblyReference.cache
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\TestProject1\obj\Debug\net472\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\TestProject1\obj\Debug\net472\TestProject1.AssemblyInfoInputs.cache
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\TestProject1\obj\Debug\net472\TestProject1.AssemblyInfo.cs
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\TestProject1\obj\Debug\net472\TestProject1.csproj.CoreCompileInputs.cache
+D:\CIT KAI\PITPM\LB3 + db\LB3_Market\TestProject1\obj\Debug\net472\TestProject1.sourcelink.json
