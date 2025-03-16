@@ -121,12 +121,17 @@ namespace LB3_Market
 
         private void Delete_Click(object sender, RoutedEventArgs e)
         {
-            if(_selectedProduct != null)
+            if (_selectedProduct != null)
             {
-                var result = MessageBox.Show($"Вы уверены, что хотите удалить товар {_selectedProduct.ProductName}?", "Подтверждение удаления", MessageBoxButton.YesNo);
+                var result = MessageBox.Show($"Вы уверены, что хотите удалить товар {_selectedProduct.ProductName}?",
+                    "Подтверждение удаления", MessageBoxButton.YesNo);
+
                 if (result == MessageBoxResult.Yes)
                 {
-                    bool success = ProductsRepo.DeleteProd(_selectedProduct.ProductID);
+                    // Создаем экземпляр ProductsRepo для вызова метода DeleteProd
+                    var repo = new ProductsRepo();
+                    bool success = repo.DeleteProd(_selectedProduct.ProductID);
+
                     if (success)
                     {
                         LoadProducts();
@@ -142,5 +147,6 @@ namespace LB3_Market
                 MessageBox.Show("Пожалуйста, выберите товар для удаления.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
         }
+
     }
 }

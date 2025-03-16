@@ -6,9 +6,9 @@ using LB3_Market.Models;
 
 namespace LB3_Market.Repos
 {
-    class ProductsRepo
+    public class ProductsRepo
     {
-        public List<Products> GetAllProducts()
+        public virtual List<Products> GetAllProducts()
         {
             List<Products> products = new List<Products>();
 
@@ -50,7 +50,7 @@ namespace LB3_Market.Repos
         }
 
 
-        public bool UpdateUser(Products product)
+        public virtual bool UpdateUser(Products product)
         {
             using (SqlConnection connection = DatabaseConnection.GetConnection())
             {
@@ -83,7 +83,7 @@ namespace LB3_Market.Repos
             }
         }
 
-        public static bool DeleteProd(int ProductID)
+        public virtual bool DeleteProd(int ProductID)
         {
             using (SqlConnection connection = DatabaseConnection.GetConnection())
             {
@@ -106,7 +106,7 @@ namespace LB3_Market.Repos
             }
         }
 
-        public static bool AddProduct(Products product)
+        public virtual bool AddProduct(Products product)
         {
             using (SqlConnection connection = DatabaseConnection.GetConnection())
             {

@@ -40,7 +40,8 @@ namespace LB3_Market
                 ImageURL = ImageURLTextBox.Text
             };
 
-            bool success = ProductsRepo.AddProduct(newProduct);
+            ProductsRepo productsRepo = new ProductsRepo();
+            bool success = productsRepo.AddProduct(newProduct);
             if (success)
             {
                 MessageBox.Show("Продукт добавлен!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
