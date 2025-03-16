@@ -1,16 +1,8 @@
-﻿using System;
+﻿using LB3_Market.Models;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using LB3_Market.Repos;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
+
 
 namespace LB3_Market
 {
@@ -19,9 +11,14 @@ namespace LB3_Market
     /// </summary>
     public partial class UserWindow : Window
     {
+        public List<Products> ProductsList { get; set; }
         public UserWindow()
         {
             InitializeComponent();
+
+            var productRepository = new LB3_Market.Repos.ProductsRepo();
+            ProductsList = productRepository.GetAllProducts();
+            ProductItemsControl.ItemsSource = ProductsList;
         }
     }
 }

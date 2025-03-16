@@ -5,8 +5,30 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LB3_Market"
         mc:Ignorable="d"
+        Background="AliceBlue"
         Title="UserWindow" Height="450" Width="800">
     <Grid>
-        
+        <!-- ItemsControl для отображения коллекции товаров -->
+        <ItemsControl Name="ProductItemsControl">
+            <ItemsControl.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <WrapPanel />
+                    <!-- Панель, которая позволяет элементам оборачиваться -->
+                </ItemsPanelTemplate>
+            </ItemsControl.ItemsPanel>
+
+            <!-- Определяем шаблон для каждого элемента (карточки товара) -->
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="10" Padding="10" Margin="10">
+                        <StackPanel>
+                            <Image Source="{Binding ImageURL}" Width="200" Height="150" Stretch="UniformToFill" />
+                            <TextBlock Text="{Binding ProductName}" FontSize="16" FontWeight="Bold" Margin="5" />
+                            <TextBlock Text="{Binding Price, StringFormat='{}{0:C}'}" FontSize="14" Margin="5" />
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
     </Grid>
 </Window>

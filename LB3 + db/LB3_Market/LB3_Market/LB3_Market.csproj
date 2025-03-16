@@ -60,6 +60,7 @@
     </Compile>
     <Compile Include="DatabaseConnection.cs" />
     <Compile Include="Helpers.cs" />
+    <Compile Include="Repos\ProductsRepo.cs" />
     <Compile Include="Repos\UserRepos.cs" />
     <Compile Include="UserWindow.xaml.cs">
       <DependentUpon>UserWindow.xaml</DependentUpon>
