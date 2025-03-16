@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
+using System.Security.Cryptography.X509Certificates;
 using LB3_Market.Models;
 
 namespace LB3_Market.Repos
@@ -46,6 +47,90 @@ namespace LB3_Market.Repos
             }
 
             return products;
+        }
+
+
+        public bool UpdateUser(Products product)
+        {
+            using (SqlConnection connection = DatabaseConnection.GetConnection())
+            {
+                string query = @"UPDATE Products 
+                 SET ProductName = @ProductName, 
+                     Description = @Description, 
+                     Price = @Price, 
+                     ImageURL = @ImageURL 
+                 WHERE ProductID = @ProductID";
+
+
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@ProductID", product.ProductID);
+                command.Parameters.AddWithValue("@ProductName", product.ProductName);
+                command.Parameters.AddWithValue("@Description", product.Description);
+                command.Parameters.AddWithValue("@Price", product.Price);
+                command.Parameters.AddWithValue("@ImageURL", product.ImageURL);
+
+                try
+                {
+                    connection.Open();
+                    int rowsAffected = command.ExecuteNonQuery();
+                    return rowsAffected > 0;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Ошибка при обновлении продукта: {ex.Message}");
+                    throw; 
+                }
+            }
+        }
+
+        public static bool DeleteProd(int ProductID)
+        {
+            using (SqlConnection connection = DatabaseConnection.GetConnection())
+            {
+                string query = @"DELETE FROM Products WHERE ProductID = @ProductID";
+
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@ProductID", ProductID);
+
+                try
+                {
+                    connection.Open();
+                    int rowsAffected = command.ExecuteNonQuery();
+                    return rowsAffected > 0;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Ошибка при удалении товара: {ex.Message}");
+                    return false;
+                }
+            }
+        }
+
+        public static bool AddProduct(Products product)
+        {
+            using (SqlConnection connection = DatabaseConnection.GetConnection())
+            {
+                string query = @"INSERT INTO Products (ProductName, Description, Price, ImageURL) 
+                 VALUES (@ProductName, @Description, @Price, @ImageURL)";
+
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("@ProductName", product.ProductName);
+                command.Parameters.AddWithValue("@Description", product.Description);
+                command.Parameters.AddWithValue("@Price", product.Price);
+                command.Parameters.AddWithValue("@ImageURL", product.ImageURL);
+
+                try
+                {
+                    connection.Open();
+                    int rowsAffected = command.ExecuteNonQuery();
+                    return rowsAffected > 0;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Ошибка при добавлении агента: {ex.Message}");
+                    return false;
+                }
+            }
         }
     }
 }

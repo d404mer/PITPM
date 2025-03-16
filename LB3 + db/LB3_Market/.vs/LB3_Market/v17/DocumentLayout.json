@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|d:\\cit kai\\pitpm\\lb3 \u002B db\\lb3_market\\lb3_market\\userwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\userwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|d:\\cit kai\\pitpm\\lb3 \u002B db\\lb3_market\\lb3_market\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|d:\\cit kai\\pitpm\\lb3 \u002B db\\lb3_market\\lb3_market\\repos\\productsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|d:\\cit kai\\pitpm\\lb3 \u002B db\\lb3_market\\lb3_market\\adminpanel.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\adminpanel.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\lb3_market\\adminpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\adminpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\lb3_market\\repos\\productsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\repos\\productsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|d:\\cit kai\\pitpm\\lb3 \u002B db\\lb3_market\\lb3_market\\editprodwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\editprodwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|d:\\cit kai\\pitpm\\lb3 \u002B db\\lb3_market\\lb3_market\\editprodwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\editprodwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|d:\\cit kai\\pitpm\\lb3 \u002B db\\lb3_market\\lb3_market\\addprodw.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\addprodw.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|d:\\cit kai\\pitpm\\lb3 \u002B db\\lb3_market\\lb3_market\\addprodw.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\addprodw.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\obj\\Debug\\AddProdw.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LB3_Market\\obj\\Debug\\AddProdw.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\lb3_market\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\lb3_market\\repos\\userrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\repos\\userrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|d:\\cit kai\\pitpm\\lb3 \u002B db\\lb3_market\\lb3_market\\userwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\userwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\lb3_market\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\lb3_market\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\lb3_market\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|d:\\cit kai\\pitpm\\lb3 \u002B db\\lb3_market\\lb3_market\\repos\\userrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\repos\\userrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|d:\\cit kai\\pitpm\\lb3 \u002B db\\lb3_market\\lb3_market\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\lb3_market\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\lb3_market\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
@@ -45,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\lb3_market\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\lb3_market\\adminpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA441F77-1E53-4032-8BD8-27312A0E7F54}|LB3_Market\\LB3_Market.csproj|solutionrelative:lb3_market\\adminpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,11 +78,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 328,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "AddProdw.xaml.cs",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\AddProdw.xaml.cs",
+              "RelativeDocumentMoniker": "LB3_Market\\AddProdw.xaml.cs",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\AddProdw.xaml.cs",
+              "RelativeToolTip": "LB3_Market\\AddProdw.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:45:52.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditProdWindow.xaml.cs",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\EditProdWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LB3_Market\\EditProdWindow.xaml.cs",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\EditProdWindow.xaml.cs",
+              "RelativeToolTip": "LB3_Market\\EditProdWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:31:50.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddProdw.xaml",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\AddProdw.xaml",
+              "RelativeDocumentMoniker": "LB3_Market\\AddProdw.xaml",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\AddProdw.xaml",
+              "RelativeToolTip": "LB3_Market\\AddProdw.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-16T14:29:39.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditProdWindow.xaml",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\EditProdWindow.xaml",
+              "RelativeDocumentMoniker": "LB3_Market\\EditProdWindow.xaml",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\EditProdWindow.xaml",
+              "RelativeToolTip": "LB3_Market\\EditProdWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-16T14:29:19.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminPanel.xaml.cs",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\AdminPanel.xaml.cs",
+              "RelativeDocumentMoniker": "LB3_Market\\AdminPanel.xaml.cs",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\AdminPanel.xaml.cs",
+              "RelativeToolTip": "LB3_Market\\AdminPanel.xaml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAewHUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:15:36.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "UserWindow.xaml.cs",
               "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\UserWindow.xaml.cs",
               "RelativeDocumentMoniker": "LB3_Market\\UserWindow.xaml.cs",
@@ -75,45 +158,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Users.cs",
-              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\Models\\Users.cs",
-              "RelativeDocumentMoniker": "LB3_Market\\Models\\Users.cs",
-              "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\Models\\Users.cs",
-              "RelativeToolTip": "LB3_Market\\Models\\Users.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwB4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T13:50:00.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductsRepo.cs",
               "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\Repos\\ProductsRepo.cs",
               "RelativeDocumentMoniker": "LB3_Market\\Repos\\ProductsRepo.cs",
               "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\Repos\\ProductsRepo.cs",
               "RelativeToolTip": "LB3_Market\\Repos\\ProductsRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAwD0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T13:45:37.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LB3_Market\\MainWindow.xaml",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\MainWindow.xaml",
+              "RelativeToolTip": "LB3_Market\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-16T14:51:48.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminPanel.xaml",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\AdminPanel.xaml",
+              "RelativeDocumentMoniker": "LB3_Market\\AdminPanel.xaml",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\AdminPanel.xaml",
+              "RelativeToolTip": "LB3_Market\\AdminPanel.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-16T13:28:15.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProdw.g.cs",
+              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\obj\\Debug\\AddProdw.g.cs",
+              "RelativeDocumentMoniker": "LB3_Market\\obj\\Debug\\AddProdw.g.cs",
+              "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\obj\\Debug\\AddProdw.g.cs",
+              "RelativeToolTip": "LB3_Market\\obj\\Debug\\AddProdw.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:50:57.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "UserWindow.xaml",
               "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\UserWindow.xaml",
               "RelativeDocumentMoniker": "LB3_Market\\UserWindow.xaml",
               "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\UserWindow.xaml",
               "RelativeToolTip": "LB3_Market\\UserWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-16T13:28:08.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T13:28:08.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DatabaseConnection.cs",
               "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\DatabaseConnection.cs",
               "RelativeDocumentMoniker": "LB3_Market\\DatabaseConnection.cs",
@@ -126,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\App.xaml.cs",
               "RelativeDocumentMoniker": "LB3_Market\\App.xaml.cs",
@@ -134,12 +240,11 @@
               "RelativeToolTip": "LB3_Market\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T13:33:45.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T13:33:45.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "UserRepos.cs",
               "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\Repos\\UserRepos.cs",
               "RelativeDocumentMoniker": "LB3_Market\\Repos\\UserRepos.cs",
@@ -152,31 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "LB3_Market\\MainWindow.xaml",
-              "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\MainWindow.xaml",
-              "RelativeToolTip": "LB3_Market\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-16T12:49:09.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdminPanel.xaml",
-              "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\AdminPanel.xaml",
-              "RelativeDocumentMoniker": "LB3_Market\\AdminPanel.xaml",
-              "ToolTip": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\AdminPanel.xaml",
-              "RelativeToolTip": "LB3_Market\\AdminPanel.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-16T13:28:15.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LB3_Market\\MainWindow.xaml.cs",
@@ -184,12 +265,11 @@
               "RelativeToolTip": "LB3_Market\\MainWindow.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T12:49:09.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T12:49:09.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\App.xaml",
               "RelativeDocumentMoniker": "LB3_Market\\App.xaml",
@@ -201,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Helpers.cs",
               "DocumentMoniker": "D:\\CIT KAI\\PITPM\\LB3 \u002B db\\LB3_Market\\LB3_Market\\Helpers.cs",
               "RelativeDocumentMoniker": "LB3_Market\\Helpers.cs",

@@ -7,6 +7,29 @@
         mc:Ignorable="d"
         Title="AdminPanel" Height="450" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="376*"/>
+            <RowDefinition Height="59*"/>
+        </Grid.RowDefinitions>
+        <DataGrid x:Name="ProductsDataGrid" Margin="10,10,10,10"
+            AutoGenerateColumns="False" IsReadOnly="True"
+            SelectionMode="Single" 
+            RowHeaderWidth="0"
+            SelectionChanged="ProductsDataGrid_SelectionChanged"
+            MouseDoubleClick="ProductsDataGrid_MouseDoubleClick"
+            Grid.Row="0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название" Binding="{Binding ProductName}" Width="Auto"/>
+                <DataGridTextColumn Header="Описание" Binding="{Binding Description}" Width="Auto"/>
+                <DataGridTextColumn Header="Цена" Binding="{Binding Price}" Width="50"/>
+                <DataGridTextColumn Header="Фотография" Binding="{Binding ImageURL}" Width="Auto"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Нижняя панель с кнопками -->
+        <StackPanel Orientation="Horizontal" Margin="10,5,10,5" Grid.Row="1">
+            <Button x:Name="Add" Content="Добавить карточку продукта" Margin="5" Click="Add_Click"/>
+            <Button x:Name="Delete" Content="Удалить карточку продукта"  Margin="5" Click="Delete_Click"/>
+        </StackPanel>
     </Grid>
 </Window>
